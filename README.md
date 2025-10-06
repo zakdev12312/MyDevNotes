@@ -24,4 +24,4 @@ Found something useful? Have thoughts to share? Feel free to open an issue or st
 
 ---
 
-Happy coding! ✨
+Happy Githubing! ✨
